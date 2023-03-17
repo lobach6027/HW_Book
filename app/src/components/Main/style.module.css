@@ -1,0 +1,96 @@
+.wrapper {
+  background-color: #1b3764;
+  padding-top: 10px;
+  color: #ffffff;
+  width: 100%;
+}
+.content {
+  display: flex;
+  width: 100%;
+}
+.information {
+  width: 50%;
+  margin: 246px 6%;
+}
+.congrat {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  gap: 1%;
+}
+.congrat_text {
+  font-family: "Cardo";
+  font-size: 21px;
+}
+.congrat img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  font-size: 63px;
+  font-family: "Cardo", serif;
+}
+.text {
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  color: #b4c7e7;
+}
+
+.reference_block {
+  margin-top: 42px;
+  display: flex;
+  gap: 50px;
+}
+
+.image {
+  width: 50%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.block_order {
+  background: #ffca42;
+  color: #1b3764;
+  width: 37%;
+  height: 66px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block_order a {
+  text-decoration: none;
+  font-size: 19px;
+  font-family: "Cardo", serif;
+  color: #1b3764;
+}
+.reference_text {
+  font-size: 19px;
+  padding: 5px;
+  border-bottom: 2px solid #b4c7e7;
+  font-family: "Cardo", serif;
+  color: #b4c7e7;
+}
+.addendum_info {
+  margin-top: 50px;
+  display: flex;
+  gap: 70px;
+}
+.addendum_title{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.addendum_title div{
+  font-size: 24px;
+  font-family: 'Cardo', serif;
+  margin-bottom: 12px;
+}
+.addendum_text{
+  color: #b4c7e7 ;
+  font-family: 'Inter', sans-serif;
+  font-size: 17px;
+  margin-left: 25px;
+  
+}

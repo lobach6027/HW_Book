@@ -1,0 +1,9 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+    grid-auto-rows:650px ;
+    gap:20px;
+    padding: 70px 70px 150px 70px;
+    background-color: #F4F8FF;
+    box-sizing: border-box;
+}

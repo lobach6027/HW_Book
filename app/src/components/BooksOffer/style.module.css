@@ -1,0 +1,50 @@
+.books_offer {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 70px 80px 150px;
+  gap: 50px;
+}
+.book_card {
+  display: flex;
+  gap: 30px;
+}
+.title_block {
+  color: #1b3764;
+  font-family: "Cardo", serif;
+  text-align: center;
+  margin-top: 70px;
+}
+.title_block div {
+  font-size: 42px;
+}
+.title_block img {
+  padding: 0;
+  margin: 0;
+}
+
+.book_title {
+  font-size: 32px;
+  color: #1b3764;
+  font-family: "Cardo", serif;
+}
+.book_price {
+  color: #ffca42;
+  font-size: 21px;
+  font-family: "Inter", sans-serif;
+}
+.book_discr {
+  color: #969aa0;
+  font-size: 19px;
+  font-family: "Inter", sans-serif;
+}
+.print{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.print div{
+color: #1B3764;
+font-size: 24px;
+font-family: "Cardo", serif;
+}

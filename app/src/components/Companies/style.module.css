@@ -1,0 +1,45 @@
+.companies_block{
+    padding:70px 70px 140px 70px;
+}
+
+
+.companies{
+    display: flex;
+    gap: 140px;
+    padding-top: 50px;
+}
+.companies_title{
+    color: #1B3764;
+    font-size: 42px;
+    font-family: "Cardo", serif;
+    text-align: center;
+}
+.line{
+   text-align: center;
+}
+
+.get_copy{
+    background-color: #1B3764;
+    display: flex;
+    gap:200px ;
+    padding: 70px;
+    box-sizing: border-box;
+    height:530px;
+}
+.descr{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: self-start;
+}
+.title{
+    color: white;
+    font-size: 45px;
+    font-family: "Cardo", serif;
+
+}
+.text{
+    font-family: "Inter", serif; 
+    font-size: 19px;
+    color: #B4C7E7;
+}
